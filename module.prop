@@ -1,0 +1,7 @@
+id=wireless_adb_toggle
+name=- Wireless ADB Toggle
+version=1.0.0
+versionCode=1
+author=denizsafak
+description=Wireless ADB: Checking status...
+updateJson=https://raw.githubusercontent.com/denizsafak/wireless-adb-toggle/main/update.json
